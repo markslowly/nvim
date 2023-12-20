@@ -3,4 +3,5 @@ if vim.g.vscode then
 else
 	-- ordinary Neovim
 	require "mark_slowly/options"
+	require "mark_slowly/keymaps"
 end
