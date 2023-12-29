@@ -43,7 +43,7 @@ return require('packer').startup(function(use)
 
         -- NOTE: PUT YOUR THIRD PLUGIN HERE
         use 'nvim-tree/nvim-tree.lua'
-        use 'nvim-tree/nvim-web-devicons.lua'
+        -- use 'nvim-tree/nvim-web-devicons.lua'
 
         -- Automatically set up your configuration after cloning packer.nvim
         -- Put this at the end after all plugins

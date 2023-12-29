@@ -79,11 +79,6 @@ _G.packer_plugins = {
     path = "/Users/ws/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
     url = "https://github.com/nvim-tree/nvim-tree.lua"
   },
-  ["nvim-web-devicons.lua"] = {
-    loaded = true,
-    path = "/Users/ws/.local/share/nvim/site/pack/packer/start/nvim-web-devicons.lua",
-    url = "https://github.com/nvim-tree/nvim-web-devicons.lua"
-  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/Users/ws/.local/share/nvim/site/pack/packer/start/packer.nvim",
