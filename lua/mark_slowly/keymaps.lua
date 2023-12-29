@@ -33,3 +33,6 @@ keymap('n', '<C-Right>', ':vertical resize +2<CR>', opts)
 -- Hint: start visual mode with the same area as the previous area and the same mode
 keymap('v', '<', '<gv', opts)
 keymap('v', '>', '>gv', opts)
+
+-- Nvimtree
+keymap('n', '<leader>e', ':NvimTreeToggle<cr>', opts)
